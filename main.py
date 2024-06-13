@@ -9,3 +9,6 @@ def foo2(x):
 if __name__ == "__main__":
     foo()
     foo2()
+
+def bad_funk():
+    return None
